@@ -1,4 +1,4 @@
-name: Build CampusGuard APK
+name: Build Flood Detection System APK
 
 on:
   workflow_dispatch:
@@ -44,5 +44,5 @@ jobs:
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
-          name: CampusGuard-debug
+          name: Flood-Detection-System-debug
           path: app/build/outputs/apk/debug/*.apk
