@@ -1,0 +1,7 @@
+{
+  "name": "FloodWatch",
+  "description": "Real-time flood monitoring, IoT sensor telemetry, early warning alerts, and river basin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
